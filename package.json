@@ -27,7 +27,7 @@
     "truffle-box": "^1.0.2",
     "truffle-compile": "^2.0.7",
     "truffle-config": "^1.0.2",
-    "truffle-contract": "^2.0.5",
+    "truffle-contract": "github:Neufund/truffle-contract#neufund",
     "truffle-contract-sources": "^0.0.1",
     "truffle-deployer": "^1.0.2",
     "truffle-error": "^0.0.2",
