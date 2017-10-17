@@ -29,7 +29,7 @@
     "truffle-config": "^1.0.2",
     "truffle-contract": "github:Neufund/truffle-contract#neufund",
     "truffle-contract-sources": "^0.0.1",
-    "truffle-deployer": "^1.0.2",
+    "truffle-deployer": "github:Neufund/truffle-deployer#neufund",
     "truffle-error": "^0.0.2",
     "truffle-expect": "^0.0.3",
     "truffle-init": "^1.0.7",
